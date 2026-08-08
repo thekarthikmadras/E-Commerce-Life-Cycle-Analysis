@@ -1,0 +1,2 @@
+Step,Reason,Rows Before,Rows After,Rows Affected,Action
+Exact duplicate removal,Remove completely identical transaction records.,1067371,1033036,34335,Dropped exact duplicate rows.

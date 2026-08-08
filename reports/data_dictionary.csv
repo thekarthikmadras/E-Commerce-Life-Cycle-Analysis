@@ -1,0 +1,9 @@
+Column,Meaning,Current_Dtype
+Invoice,Invoice number identifying a transaction,object
+StockCode,Product/item identifier,object
+Description,Product description,object
+Quantity,Number of units purchased,int64
+InvoiceDate,Transaction date and time,datetime64[us]
+Price,Unit price,float64
+Customer ID,Customer identifier,float64
+Country,Customer country,str
