@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Life-Cycle Analysis
+# E-Commerce Life-Cycle Analysis
 
 > End-to-end data analysis of a messy real-world retail transaction dataset — from raw data cleaning to customer segmentation, cohort analysis, basket analysis, and an interactive Streamlit dashboard.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project performs a complete analytical lifecycle on the **Online Retail II** dataset from the UCI Machine Learning Repository.
 
@@ -22,7 +22,7 @@ The project demonstrates how a data analyst / data scientist can transform this 
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 The project answers questions such as:
 
@@ -38,7 +38,7 @@ The project answers questions such as:
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 - Python
 - pandas
@@ -55,7 +55,7 @@ The project answers questions such as:
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 **Online Retail II**
 
